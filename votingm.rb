@@ -1,12 +1,12 @@
 
 $Pres_List=[
-  { cand: 'kenneth', nvotes: 0},
+  { cand: 'wani', nvotes: 0},
 
-  { cand: 'mika', nvotes: 0},
+  { cand: 'toowi', nvotes: 0},
 
-  { cand: 'reggie', nvotes: 0},
+  { cand: 'threem', nvotes: 0},
 
-  { cand: 'trevor', nvotes: 0}
+  { cand: 'forleaf', nvotes: 0}
 ]
 
 $name=""
@@ -88,10 +88,10 @@ def vresult
   puts " "*71;
   puts "Results 2017:" + " "*37;
   puts " "*71;
-  puts "Kenneth with #{$Pres_List[0][:nvotes]} votes.";
-  puts "Mika with #{$Pres_List[1][:nvotes]} votes.";
-  puts "Reggie with #{$Pres_List[2][:nvotes]} votes.";
-  puts "Trevor with #{$Pres_List[3][:nvotes]} votes.";
+  puts "Wani with #{$Pres_List[0][:nvotes]} votes.";
+  puts "Toowi with #{$Pres_List[1][:nvotes]} votes.";
+  puts "Threem with #{$Pres_List[2][:nvotes]} votes.";
+  puts "Forleaf with #{$Pres_List[3][:nvotes]} votes.";
   puts " "*71;
   puts "The winner of the 2017 Presidential Election: " +vwin;
   puts " "*71;
