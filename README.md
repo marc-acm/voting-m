@@ -1,4 +1,4 @@
-# VOTING MACHINE
+# AUTOMATED VOTING
 
 This APP created in Ruby works like a Voting Machine.
 
